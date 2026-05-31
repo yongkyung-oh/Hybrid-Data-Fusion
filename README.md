@@ -1,6 +1,6 @@
 # Multi-modal lifelog data fusion for improved human activity recognition: A hybrid approach
 
-This repository contains the official code for a **hybrid multi-modal data fusion** approach to **human activity recognition (HAR)** from **lifelog** data. The method learns deep, nonlinear interactions between static and dynamic modalities and combines three kinds of interaction features: features from static data, latent representations learned by deep neural networks, and statistical features extracted from time series. It supports both **feature-level fusion** and **decision-level fusion**, and is evaluated on six publicly available datasets.
+This repository contains the official code for a **hybrid multi-modal data fusion** approach to **human activity recognition (HAR)** from **lifelog** data. The method learns deep, nonlinear interactions between static and dynamic modalities and combines three kinds of interaction features: features from static data, latent representations learned by deep neural networks, and statistical features extracted from time series. It supports both **feature-level fusion** and **decision-level fusion**, and is evaluated on the ETRI-Lifelog data together with three widely-used public datasets: USC-HAD, UCI-HAR, and UCI-HAPT.
 
 **Authors:** YongKyung Oh, Sungil Kim
 **Venue:** Information Fusion (Elsevier), vol. 110, article 102464, October 2024
@@ -10,7 +10,7 @@ This repository contains the official code for a **hybrid multi-modal data fusio
 
 ## Overview
 
-Human activity recognition is important in healthcare for personalized care and early intervention. Two central challenges are integrating heterogeneous multimodal data and extracting informative features. This work addresses both by fusing static and dynamic modalities through their deep, nonlinear interactions, and by exploring complementary fusion strategies. Experiments on six public datasets show the proposed hybrid approach outperforms traditional methods.
+Human activity recognition is important in healthcare for personalized care and early intervention. Two central challenges are integrating heterogeneous multimodal data and extracting informative features. This work addresses both by fusing static and dynamic modalities through their deep, nonlinear interactions, and by exploring complementary fusion strategies. In addition to the existing ETRI-Lifelog data, the method is evaluated on three widely-used public datasets (USC-HAD, UCI-HAR, UCI-HAPT), showing that the proposed hybrid approach outperforms traditional methods.
 
 ## Repository structure
 
