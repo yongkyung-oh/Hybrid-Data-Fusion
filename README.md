@@ -31,6 +31,8 @@ Human activity recognition is important in healthcare for personalized care and 
 
 If you use this code, please cite:
 
+Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff).
+
 ```bibtex
 @article{oh2024multimodal,
   title   = {Multi-modal lifelog data fusion for improved human activity recognition: A hybrid approach},
