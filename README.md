@@ -6,7 +6,7 @@ This repository contains the official code for a **hybrid multi-modal data fusio
 **Venue:** Information Fusion (Elsevier), vol. 110, article 102464, October 2024
 **DOI:** [10.1016/j.inffus.2024.102464](https://doi.org/10.1016/j.inffus.2024.102464)
 
-**Keywords:** human activity recognition, multi-modal data fusion, lifelog, hybrid approach, feature-level fusion, decision-level fusion
+**Keywords:** Multi-modal data, Data fusion strategy, Hybrid approach, Human activity recognition
 
 ## Overview
 
