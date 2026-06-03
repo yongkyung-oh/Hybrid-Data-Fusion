@@ -34,7 +34,7 @@ If you use this code, please cite:
 Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff).
 
 ```bibtex
-@article{oh2024multimodal,
+@article{oh_multi-modal_2024,
   title   = {Multi-modal lifelog data fusion for improved human activity recognition: A hybrid approach},
   author  = {Oh, YongKyung and Kim, Sungil},
   journal = {Information Fusion},
